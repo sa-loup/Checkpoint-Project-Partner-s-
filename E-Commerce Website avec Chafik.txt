@@ -1,1 +1,35 @@
-E-Commerce Website avec Chafik 
+Nom du Projet :
+Glory Games – Site web e-commerce MERN pour la vente de jeux vidéo et de consoles
+
+Sujet du Projet :
+Le projet consiste à développer un site web e-commerce complet en utilisant la stack MERN (MongoDB, Express.js, React.js, Node.js). L'objectif principal est de permettre aux utilisateurs d'acheter des jeux vidéo et des consoles via une plateforme moderne, intuitive et sécurisée.
+
+Participants :
+
+HAMIDATOU Salem
+
+TELLI Chafik
+
+Fonctionnalités principales prévues :
+
+Interface utilisateur responsive pour la navigation des produits
+
+Authentification des utilisateurs (inscription/connexion)
+
+Panier d’achat et gestion des commandes
+
+Interface d’administration pour la gestion des produits et des commandes
+
+Intégration de moyens de paiement
+
+Recherche et filtres avancés
+
+Objectifs pédagogiques :
+
+Mettre en pratique la stack MERN dans un contexte réel
+
+Apprendre à structurer une application full-stack
+
+Développer les compétences en développement web sécurisé et performant
+
+Travailler en collaboration sur un projet concret
